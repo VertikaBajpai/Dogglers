@@ -1,0 +1,318 @@
+08-05 18:05:31.152 11452 11480 I TestRunner: started: clicking_horizontal_list_button_displays_horizontal_list(com.example.dogglers.ButtonTests)
+08-05 18:05:31.163 11452 11480 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+08-05 18:05:31.175  1381  3751 D MiuiMultiWindowAdapter: MiuiMultiWindowAdapter::getFreeformBlackList::sSmallWindowBlackList = [com.miui.securitycenter, com.miui.weather2, com.miui.miservice, com.android.calendar, com.xiaomi.calendar, com.android.contacts, com.miui.mishare.connectivity, com.android.settings, com.android.printspooler, com.miui.backup, com.miui.huanji, com.miui.calculator, com.android.deskclock, com.android.thememanager, com.mfashiongallery.emag, com.miui.virtualsim, com.miui.smarttravel, com.mi.health, com.android.camera, com.lbe.security.miui, com.miui.cleanmaster, com.miui.newhome, com.miui.voiceassist, com.android.phone, com.miui.yellowpage, com.android.updater, com.miui.tsmclient, com.miui.securitycore, com.xiaomi.account, com.xiaomi.shop, com.mipay.wallet, com.xiaomi.youpin, com.xiaomi.hm.health, com.miui.bugreport, com.xiaomi.mibrain.speech, com.xiaomi.mimoji, com.xiaomi.scanner, com.duokan.phone.remotecontroller, com.miui.hybrid, com.android.incallui, com.miui.video, com.miui.videoplayer, com.miui.player, com.miui.fm, com.miui.packageinstaller, com.mi.android.globallauncher, com.google.android.dialer, com.google.android.apps.magazines, com.miui.compass, com.miui.greenguard, com.kiteguard, com.google.android.apps.prodcasts, com.google.ar.lens, com.xiangkan.android, com.android.bankabc, com.sohu.inputmethod.sogou, com.tencent.mtt, com.shyz.toutiao, com.netease.mc.mi, com.outfit7.talkingtomgoldrun.mi, com.doudz.mi, com.wepie.snake.new.mi, cn.jj, com.standddz002.mi, com.miHoYo.bh3.mi, com.qqgame.hlddz, com.happyelements.AndroidAnimal, com.minitech.miniworld.TMobile.mi, com.mfp.jelly.xiaomi, com.lilithgames.afk.mi, com.tencent.peng, com.teenpatti.hd.gold, blockpuzzle.jewelgames.jewelslegend, com.playgendary.tanks, com.chillingo.robberybobfree.android.row, com.episodeinteractive.android.catalog, com.playrix.township, com.ansangha.drdriving, com.google.android.youtube, com.gbits.atm.mi]
+08-05 18:05:31.325  1381  1642 I MiuiNetworkPolicy: updateUidState uid = 10077, uidState = 19
+08-05 18:05:32.102  1061  2025 D AALLightSensor: oldLux=55 [SA:36 LA:36] newLux=55 (oriLux: 37)
+08-05 18:05:32.193  1381  1653 E WifiVendorHal: getWifiLinkLayerStats_1_3_Internal(l.976) failed {.code = ERROR_NOT_SUPPORTED, .description = }
+08-05 18:05:32.310  1381  1404 D AES     : AEEIOCTL_GET/SET_SF_STATE IOCTL,cmd= 1074294797, lParam=0.
+08-05 18:05:32.310  1381  1404 D AES     : AEEIOCTL_RT_MON_Kick IOCTL,cmd= 2147774474, lParam=300.
+08-05 18:05:32.502  1892  2022 D NetworkController.MobileSignalController(1): onSignalStrengthsChanged signalStrength=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-91 rsrp=-105 rsrq=-15 rssnr=2 cqi=0 ta=0 miuiLevel=4 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte}, phoneId=0, mMtkLevel=0, mMtkRsrpOnly=false, mMtkLteRsrpThreshold=null, mMtkLteRssnrThreshold=null level=3
+08-05 18:05:32.503  1892  2022 D NetworkController.MobileSignalController(1): updateTelephonySignalStrength: hasService=true ss=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-91 rsrp=-105 rsrq=-15 rssnr=2 cqi=0 ta=0 miuiLevel=4 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte}, phoneId=0, mMtkLevel=0, mMtkRsrpOnly=false, mMtkLteRsrpThreshold=null, mMtkLteRssnrThreshold=null displayInfo=TelephonyDisplayInfo {network=LTE, override=NONE}
+08-05 18:05:32.503  1892  2022 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 4
+08-05 18:05:32.724 11588 11588 W sh      : type=1400 audit(0.0:153849): avc: denied { search } for name="mm" dev="sysfs" ino=6916 scontext=u:r:shell:s0 tcontext=u:object_r:sysfs_mm:s0 tclass=dir permissive=0
+08-05 18:05:32.748 11588 11588 W ps      : type=1400 audit(0.0:153850): avc: denied { search } for name="mm" dev="sysfs" ino=6916 scontext=u:r:shell:s0 tcontext=u:object_r:sysfs_mm:s0 tclass=dir permissive=0
+08-05 18:05:32.772 11590 11590 W sh      : type=1400 audit(0.0:153851): avc: denied { search } for name="mm" dev="sysfs" ino=6916 scontext=u:r:shell:s0 tcontext=u:object_r:sysfs_mm:s0 tclass=dir permissive=0
+08-05 18:05:32.792 11590 11590 W ps      : type=1400 audit(0.0:153852): avc: denied { search } for name="mm" dev="sysfs" ino=6916 scontext=u:r:shell:s0 tcontext=u:object_r:sysfs_mm:s0 tclass=dir permissive=0
+08-05 18:05:33.160   683  1014 E hwcomposer: [DRMDEV] failed to drmWaitVBlank with dpy_0: -1
+08-05 18:05:33.160   683  1014 W hwcomposer: (0) failed to waitNextVsync: -1
+08-05 18:05:33.171   683  1014 E hwcomposer: [DRMDEV] failed to drmWaitVBlank with dpy_0: -1
+08-05 18:05:33.171   683  1014 W hwcomposer: (0) failed to waitNextVsync: -1
+08-05 18:05:33.188   683  1014 E hwcomposer: [DRMDEV] failed to drmWaitVBlank with dpy_0: -1
+08-05 18:05:33.188   683  1014 W hwcomposer: (0) failed to waitNextVsync: -1
+08-05 18:05:33.193   730  1252 I BufferQueueProducer: [StatusBar#0](this:0xb400007e11761258,id:5,api:1,p:1892,c:730) queueBuffer: fps=0.25 dur=3957.87 max=3957.87 min=3957.87
+08-05 18:05:33.201   683   811 I hwcomposer: [HWCDisplay] [Display_0 (type:1)] fps:0.506106,dur:3951.74,max:3815.62,min:136.12
+08-05 18:05:33.309   683  1009 I hwcomposer: [DPY] receive refesh frquest from driver: type[4]
+08-05 18:05:33.310   683  1009 I hwcomposer: [HWC] fire a callback of refresh to SF
+08-05 18:05:33.326   730   730 I BufferQueueProducer: [FramebufferSurface](this:0xb400007e00f11ed0,id:-1,api:1,p:730,c:730) queueBuffer: fps=0.25 dur=3941.86 max=3941.86 min=3941.86
+08-05 18:05:33.517  7630  5539 I CastDatabase: Saving the database
+08-05 18:05:33.529  7630  5539 I SQLiteCastStore: [CastNetworkInfo] saved: 0, skipped: 0, [CastDeviceInfo]: saved 0, skipped 0, [Paired Guest Mode DeviceInfo] saved: 0, skipped: 0. [ProbedNetworks]: saved 0, skipped: 0, [ProbedSocketAddress]: saved 0, skipped: 0, [Network-Device pairs]: saved: 0
+08-05 18:05:34.884 11592 11592 W sh      : type=1400 audit(0.0:153853): avc: denied { search } for name="mm" dev="sysfs" ino=6916 scontext=u:r:shell:s0 tcontext=u:object_r:sysfs_mm:s0 tclass=dir permissive=0
+08-05 18:05:34.892 11594 11594 W sh      : type=1400 audit(0.0:153854): avc: denied { search } for name="mm" dev="sysfs" ino=6916 scontext=u:r:shell:s0 tcontext=u:object_r:sysfs_mm:s0 tclass=dir permissive=0
+08-05 18:05:34.904 11592 11592 W ps      : type=1400 audit(0.0:153855): avc: denied { search } for name="mm" dev="sysfs" ino=6916 scontext=u:r:shell:s0 tcontext=u:object_r:sysfs_mm:s0 tclass=dir permissive=0
+08-05 18:05:34.920 11594 11594 W ps      : type=1400 audit(0.0:153856): avc: denied { search } for name="mm" dev="sysfs" ino=6916 scontext=u:r:shell:s0 tcontext=u:object_r:sysfs_mm:s0 tclass=dir permissive=0
+08-05 18:05:35.211  1381  1653 E WifiVendorHal: getWifiLinkLayerStats_1_3_Internal(l.976) failed {.code = ERROR_NOT_SUPPORTED, .description = }
+08-05 18:05:35.220  1381  1719 D SlaveWifiManager: getWifiSlaveConnectionInfo
+08-05 18:05:35.221  1381  1719 D SlaveWifiManager: getWifiSlaveConnectionInfo
+08-05 18:05:35.225  1892  2022 D NetworkController: onReceive: intent=Intent { act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras) }
+08-05 18:05:35.231   683  1014 E hwcomposer: [DRMDEV] failed to drmWaitVBlank with dpy_0: -1
+08-05 18:05:35.231   683  1014 W hwcomposer: (0) failed to waitNextVsync: -1
+08-05 18:05:35.238   683  1014 E hwcomposer: [DRMDEV] failed to drmWaitVBlank with dpy_0: -1
+08-05 18:05:35.238   683  1014 W hwcomposer: (0) failed to waitNextVsync: -1
+08-05 18:05:35.247  3004  5025 I CarrierServices: [145] gnn.handleMessage: RcsEngineImpl[DUAL_REG]:[77cb523c-bbcc]>Handler: handleMessage processing message:[NOTIFY_UPTIME_IGNORE_STATE_CHANGED] with [non-null]:RcsEngineImpl reference
+08-05 18:05:35.248  3004  5031 I CarrierServices: [146] fvp.c: Connected state: [1], networkType: [WIFI]
+08-05 18:05:35.254   683  1014 E hwcomposer: [DRMDEV] failed to drmWaitVBlank with dpy_0: -1
+08-05 18:05:35.254   683  1014 W hwcomposer: (0) failed to waitNextVsync: -1
+08-05 18:05:35.271   683  1014 E hwcomposer: [DRMDEV] failed to drmWaitVBlank with dpy_0: -1
+08-05 18:05:35.271   683  1014 W hwcomposer: (0) failed to waitNextVsync: -1
+08-05 18:05:35.275  3004  5025 I CarrierServices: [145] gkn.z: Rcs is enabled from user settings: true
+08-05 18:05:35.288   683  1014 E hwcomposer: [DRMDEV] failed to drmWaitVBlank with dpy_0: -1
+08-05 18:05:35.288   683  1014 W hwcomposer: (0) failed to waitNextVsync: -1
+08-05 18:05:35.304   683  1014 E hwcomposer: [DRMDEV] failed to drmWaitVBlank with dpy_0: -1
+08-05 18:05:35.305   683  1014 W hwcomposer: (0) failed to waitNextVsync: -1
+08-05 18:05:35.321   683  1014 E hwcomposer: [DRMDEV] failed to drmWaitVBlank with dpy_0: -1
+08-05 18:05:35.321   683  1014 W hwcomposer: (0) failed to waitNextVsync: -1
+08-05 18:05:35.486  4858  4871 I .apps.messagin: CollectorTransition concurrent copying GC freed 541(189KB) AllocSpace objects, 0(0B) LOS objects, 49% free, 5387KB/10MB, paused 253us total 237.777ms
+08-05 18:05:36.285  3241  4315 I com.miui.daemo: oneway function results will be dropped but finished with status OK and parcel size 4
+08-05 18:05:36.287  3241  4315 I com.miui.daemo: oneway function results will be dropped but finished with status OK and parcel size 4
+08-05 18:05:36.602  1061  2025 D AALLightSensor: oldLux=55 [SA:37 LA:37] newLux=55 (oriLux: 37)
+08-05 18:05:37.020 11597 11597 W sh      : type=1400 audit(0.0:153857): avc: denied { search } for name="mm" dev="sysfs" ino=6916 scontext=u:r:shell:s0 tcontext=u:object_r:sysfs_mm:s0 tclass=dir permissive=0
+08-05 18:05:37.048 11597 11597 W ps      : type=1400 audit(0.0:153858): avc: denied { search } for name="mm" dev="sysfs" ino=6916 scontext=u:r:shell:s0 tcontext=u:object_r:sysfs_mm:s0 tclass=dir permissive=0
+08-05 18:05:37.072 11599 11599 W sh      : type=1400 audit(0.0:153859): avc: denied { search } for name="mm" dev="sysfs" ino=6916 scontext=u:r:shell:s0 tcontext=u:object_r:sysfs_mm:s0 tclass=dir permissive=0
+08-05 18:05:37.092 11599 11599 W ps      : type=1400 audit(0.0:153860): avc: denied { search } for name="mm" dev="sysfs" ino=6916 scontext=u:r:shell:s0 tcontext=u:object_r:sysfs_mm:s0 tclass=dir permissive=0
+08-05 18:05:37.358  1048  1048 I thermal_repeater: [recvMdThermalInfo] ret=28, strLen=127,  3, 42, -50, 0, 32767, 10269
+08-05 18:05:37.621  1892  2022 D NetworkController.MobileSignalController(1): onSignalStrengthsChanged signalStrength=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-91 rsrp=-103 rsrq=-14 rssnr=4 cqi=0 ta=0 miuiLevel=4 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte}, phoneId=0, mMtkLevel=0, mMtkRsrpOnly=false, mMtkLteRsrpThreshold=null, mMtkLteRssnrThreshold=null level=3
+08-05 18:05:37.622  1892  2022 D NetworkController.MobileSignalController(1): updateTelephonySignalStrength: hasService=true ss=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-91 rsrp=-103 rsrq=-14 rssnr=4 cqi=0 ta=0 miuiLevel=4 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte}, phoneId=0, mMtkLevel=0, mMtkRsrpOnly=false, mMtkLteRsrpThreshold=null, mMtkLteRssnrThreshold=null displayInfo=TelephonyDisplayInfo {network=LTE, override=NONE}
+08-05 18:05:37.622  1892  2022 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 4
+08-05 18:05:38.227  1381  1653 E WifiVendorHal: getWifiLinkLayerStats_1_3_Internal(l.976) failed {.code = ERROR_NOT_SUPPORTED, .description = }
+08-05 18:05:39.188 11601 11601 W sh      : type=1400 audit(0.0:153861): avc: denied { search } for name="mm" dev="sysfs" ino=6916 scontext=u:r:shell:s0 tcontext=u:object_r:sysfs_mm:s0 tclass=dir permissive=0
+08-05 18:05:39.212 11603 11603 W sh      : type=1400 audit(0.0:153862): avc: denied { search } for name="mm" dev="sysfs" ino=6916 scontext=u:r:shell:s0 tcontext=u:object_r:sysfs_mm:s0 tclass=dir permissive=0
+08-05 18:05:39.216 11601 11601 W ps      : type=1400 audit(0.0:153863): avc: denied { search } for name="mm" dev="sysfs" ino=6916 scontext=u:r:shell:s0 tcontext=u:object_r:sysfs_mm:s0 tclass=dir permissive=0
+08-05 18:05:39.236 11603 11603 W ps      : type=1400 audit(0.0:153864): avc: denied { search } for name="mm" dev="sysfs" ino=6916 scontext=u:r:shell:s0 tcontext=u:object_r:sysfs_mm:s0 tclass=dir permissive=0
+08-05 18:05:39.323   698   773 I libPowerHal: perfUserScnCheckAll
+08-05 18:05:39.323   698   773 I libPowerHal: perfScnDumpAll cmd:0
+08-05 18:05:39.323   698   773 I libPowerHal: ========================
+08-05 18:05:39.323   698   773 I libPowerHal: ========================
+08-05 18:05:39.989  7630  5539 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 180893184]
+08-05 18:05:40.047   672   672 D Zygote  : Forked child process 11606
+08-05 18:05:40.073 11606 11606 E .nbu.paisa.use: Unknown bits set in runtime_flags: 0x800000
+08-05 18:05:40.083 11606 11606 E .nbu.paisa.use: Not starting debugger since process cannot load the jdwp agent.
+08-05 18:05:40.104  1381  1642 I MiuiNetworkPolicy: updateUidState uid = 10209, uidState = 11
+08-05 18:05:40.203 11606 11606 D NetworkSecurityConfig: Using Network Security Config from resource gpay_app_network_security_config debugBuild: false
+08-05 18:05:40.208 11606 11606 D NetworkSecurityConfig: Using Network Security Config from resource gpay_app_network_security_config debugBuild: false
+08-05 18:05:40.312  7630  7630 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.pseudonymous.service.START pkg=com.google.android.gms }
+08-05 18:05:40.313  7630  7630 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.pseudonymous.service.START pkg=com.google.android.gms }
+08-05 18:05:40.329  7630  7630 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.phenotype.service.START pkg=com.google.android.gms }
+08-05 18:05:40.329  7630  7630 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.phenotype.service.START pkg=com.google.android.gms }
+08-05 18:05:40.336 11606 11606 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+08-05 18:05:40.354 11606 11606 I chatty  : uid=10209(com.google.android.apps.nbu.paisa.user) identical 16 lines
+08-05 18:05:40.355 11606 11606 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+08-05 18:05:40.368 11606 11606 I TetheringManager: registerTetheringEventCallback:com.google.android.apps.nbu.paisa.user
+08-05 18:05:40.416 11606 11606 W .nbu.paisa.user: type=1400 audit(0.0:153865): avc: denied { read } for name="max_map_count" dev="proc" ino=9682509 scontext=u:r:untrusted_app:s0:c209,c256,c512,c768 tcontext=u:object_r:proc_max_map_count:s0 tclass=file permissive=0 app=com.google.android.apps.nbu.paisa.user
+08-05 18:05:40.438 11606 11606 D libMEOW : meow reload base cfg path: na
+08-05 18:05:40.438 11606 11606 D libMEOW : meow reload overlay cfg path: na
+08-05 18:05:40.438 11606 11606 D libMEOW : applied 0 plugin for [com.google.android.apps.nbu.paisa.user].
+08-05 18:05:40.454   455   455 I hwservicemanager: getTransport: Cannot find entry android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default in either framework or device manifest.
+08-05 18:05:40.466 11606 11637 D libMEOW : applied 0 plugin for [com.google.android.apps.nbu.paisa.user].
+08-05 18:05:40.514 11606 11660 W System  : ClassLoader referenced unknown path:
+08-05 18:05:40.532  7816  7816 D BoundBrokerSvc: onBind: Intent { act=com.google.android.mobstore.service.START pkg=com.google.android.gms }
+08-05 18:05:40.532  7816  7816 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.mobstore.service.START pkg=com.google.android.gms }
+08-05 18:05:40.538  7816  7816 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.constellation.service.START pkg=com.google.android.gms }
+08-05 18:05:40.538  7816  7816 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.constellation.service.START pkg=com.google.android.gms }
+08-05 18:05:40.542  7816  7816 D BoundBrokerSvc: onBind: Intent { act=com.google.firebase.dynamiclinks.service.START pkg=com.google.android.gms }
+08-05 18:05:40.542  7816  7816 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.firebase.dynamiclinks.service.START pkg=com.google.android.gms }
+08-05 18:05:40.548 11606 11606 E libc    : Access denied finding property "ro.vendor.df.effect.conflict"
+08-05 18:05:40.548 11606 11606 E libc    : Access denied finding property "ro.vendor.knock.type"
+08-05 18:05:40.555  7630  7630 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.tapandpay.service.BIND pkg=com.google.android.gms }
+08-05 18:05:40.555  7630  7630 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.tapandpay.service.BIND pkg=com.google.android.gms }
+08-05 18:05:40.563 10994 11079 I System.out: [okhttp]:check permission begin!
+08-05 18:05:40.563 10994 11079 I System.out: [okhttp]:not MMS!
+08-05 18:05:40.563 10994 11079 I System.out: [okhttp]:not Email!
+08-05 18:05:40.565  7816  7816 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.mdisync.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.GmsApiService }
+08-05 18:05:40.565  7816  7816 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.mdisync.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.GmsApiService }
+08-05 18:05:40.565 10994 11079 I System.out: [OkHttp] sendRequest<<
+08-05 18:05:40.568 10994 11080 I System.out: [okhttp]:check permission begin!
+08-05 18:05:40.568 10994 11080 I System.out: [okhttp]:not MMS!
+08-05 18:05:40.568 10994 11080 I System.out: [okhttp]:not Email!
+08-05 18:05:40.569 10994 11083 I System.out: [okhttp]:check permission begin!
+08-05 18:05:40.569 10994 11083 I System.out: [okhttp]:not MMS!
+08-05 18:05:40.569 10994 11083 I System.out: [okhttp]:not Email!
+08-05 18:05:40.601  7816  7816 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.feedback.internal.IFeedbackService dat=chimera-action: cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+08-05 18:05:40.602  7816  7816 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.feedback.internal.IFeedbackService dat=chimera-action: cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+08-05 18:05:40.620 11606 11660 W linker  : Warning: "/data/user_de/0/com.google.android.gms/app_chimera/m/0000022f/CronetDynamite.apk!/lib/arm64-v8a/libcronet.114.0.5735.33.so" unused DT entry: unknown processor-specific (type 0x70000001 arg 0x0) (ignoring)
+08-05 18:05:40.628  1381  1719 D SlaveWifiManager: getWifiSlaveConnectionInfo
+08-05 18:05:40.629  1381  1719 I chatty  : uid=1000(system) ConnectivitySer identical 59 lines
+08-05 18:05:40.629  1381  1719 D SlaveWifiManager: getWifiSlaveConnectionInfo
+08-05 18:05:40.630  1381  1653 D UntrustedWifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=5027, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10209 AdministratorUids: [] RequestorUid: 10209 RequestorPackageName: com.google.android.apps.nbu.paisa.user] ] with score 60 and providerId 5
+08-05 18:05:40.630  1381  1653 D UntrustedWifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=5027, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10209 AdministratorUids: [] RequestorUid: 10209 RequestorPackageName: com.google.android.apps.nbu.paisa.user] ] with score 60 and providerId 5
+08-05 18:05:40.630  2094  2094 D PhoneSwitcherNetworkRequstListener: got request NetworkRequest [ TRACK_DEFAULT id=5027, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10209 AdministratorUids: [] RequestorUid: 10209 RequestorPackageName: com.google.android.apps.nbu.paisa.user] ] with score 60 and providerId 5
+08-05 18:05:40.630  1381  1653 D WifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=5027, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10209 AdministratorUids: [] RequestorUid: 10209 RequestorPackageName: com.google.android.apps.nbu.paisa.user] ] with score 60 and providerId 5
+08-05 18:05:40.630  1381  1653 D WifiSlaveNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=5027, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10209 AdministratorUids: [] RequestorUid: 10209 RequestorPackageName: com.google.android.apps.nbu.paisa.user] ] with score 60 and providerId 5
+08-05 18:05:40.630  1381  1789 D Ethernet: got request NetworkRequest [ TRACK_DEFAULT id=5027, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10209 AdministratorUids: [] RequestorUid: 10209 RequestorPackageName: com.google.android.apps.nbu.paisa.user] ] with score 60 and providerId 5
+08-05 18:05:40.631 11606 11660 I cr_CronetLibraryLoader: Cronet version: 114.0.5735.33, arch: aarch64
+08-05 18:05:40.632  1381  1719 D SlaveWifiManager: getWifiSlaveConnectionInfo
+08-05 18:05:40.634  1381  1719 I chatty  : uid=1000(system) ConnectivitySer identical 58 lines
+08-05 18:05:40.634  1381  1719 D SlaveWifiManager: getWifiSlaveConnectionInfo
+08-05 18:05:40.642 10994 11080 I System.out: [socket]:check permission begin!
+08-05 18:05:40.642 10994 11083 I System.out: [socket]:check permission begin!
+08-05 18:05:40.656  7816 17671 I Icing   : IndexChimeraService.getServiceInterface callingPackage=com.google.android.apps.nbu.paisa.user componentName=ICING_FLUTTER_BINDING serviceId=32
+08-05 18:05:40.674  7630  7630 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.auth.account.workaccount.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+08-05 18:05:40.674  7630  7630 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.auth.account.workaccount.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+08-05 18:05:40.687  7816 16575 I GmsCoreXrpcWrapper: (REDACTED) Returning a channel provider with trafficStatsTag=%d trafficStatsUid=%d
+08-05 18:05:40.693 11606 11674 I FA      : App measurement initialized, version: 80047
+08-05 18:05:40.693 11606 11674 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+08-05 18:05:40.693 11606 11674 I FA      : To enable faster debug mode event logging run:
+08-05 18:05:40.693 11606 11674 I FA      :   adb shell setprop debug.firebase.analytics.app com.google.android.apps.nbu.paisa.user
+08-05 18:05:40.695  7816 24523 I MdiSyncModule: (REDACTED) Receiving API connection from package '%s'...
+08-05 18:05:40.696  7630  7630 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.icing.LIGHTWEIGHT_INDEX_SERVICE dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+08-05 18:05:40.696  7630  7630 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.icing.LIGHTWEIGHT_INDEX_SERVICE dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+08-05 18:05:40.696  7816 24523 I MdiSyncModule: API connection successful!
+08-05 18:05:40.698  7816 24523 I MdiSyncModule: (REDACTED) Receiving API connection from package '%s'...
+08-05 18:05:40.699  7816 24523 I MdiSyncModule: API connection successful!
+08-05 18:05:40.719  7816 17667 I Icing   : IndexChimeraService.getServiceInterface callingPackage=com.google.android.gms componentName=null serviceId=30
+08-05 18:05:40.721  7816 16575 I Icing   : Usage reports ok 1, Failed Usage reports 0, indexed 0, rejected 0
+08-05 18:05:40.727  7816 16575 I GmsCoreXrpcWrapper: (REDACTED) Returning a channel provider with trafficStatsTag=%d trafficStatsUid=%d
+08-05 18:05:40.730 10994 11080 I System.out: [OkHttp] sendRequest<<
+08-05 18:05:40.732 11606 11702 I System.out: [okhttp]:check permission begin!
+08-05 18:05:40.736 11606 11702 I System.out: [okhttp]:not MMS!
+08-05 18:05:40.736 11606 11702 I System.out: [okhttp]:not Email!
+08-05 18:05:40.738  7816 16575 I Icing   : Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0
+08-05 18:05:40.739 10994 11083 I System.out: [OkHttp] sendRequest<<
+08-05 18:05:40.741  7816  7816 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+08-05 18:05:40.741  7816  7816 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+08-05 18:05:40.792 11606 11702 I System.out: [socket]:check permission begin!
+08-05 18:05:40.857   683  1014 E hwcomposer: [DRMDEV] failed to drmWaitVBlank with dpy_0: -1
+08-05 18:05:40.857   683  1014 W hwcomposer: (0) failed to waitNextVsync: -1
+08-05 18:05:40.871   683  1014 E hwcomposer: [DRMDEV] failed to drmWaitVBlank with dpy_0: -1
+08-05 18:05:40.871   683  1014 W hwcomposer: (0) failed to waitNextVsync: -1
+08-05 18:05:40.888   683  1014 E hwcomposer: [DRMDEV] failed to drmWaitVBlank with dpy_0: -1
+08-05 18:05:40.888   683  1014 W hwcomposer: (0) failed to waitNextVsync: -1
+08-05 18:05:40.904   683  1014 E hwcomposer: [DRMDEV] failed to drmWaitVBlank with dpy_0: -1
+08-05 18:05:40.904   683  1014 W hwcomposer: (0) failed to waitNextVsync: -1
+08-05 18:05:40.921   683  1014 E hwcomposer: [DRMDEV] failed to drmWaitVBlank with dpy_0: -1
+08-05 18:05:40.921   683  1014 W hwcomposer: (0) failed to waitNextVsync: -1
+08-05 18:05:40.938   683  1014 E hwcomposer: [DRMDEV] failed to drmWaitVBlank with dpy_0: -1
+08-05 18:05:40.938   683  1014 W hwcomposer: (0) failed to waitNextVsync: -1
+08-05 18:05:40.954   683  1014 E hwcomposer: [DRMDEV] failed to drmWaitVBlank with dpy_0: -1
+08-05 18:05:40.954   683  1014 W hwcomposer: (0) failed to waitNextVsync: -1
+08-05 18:05:40.960  7816  7816 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.auth.api.signin.service.START pkg=com.google.android.gms }
+08-05 18:05:40.960  7816  7816 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.auth.api.signin.service.START pkg=com.google.android.gms }
+08-05 18:05:41.059  1381  1642 I MiuiNetworkPolicy: updateUidState uid = 10194, uidState = 10
+08-05 18:05:41.063  1381  1642 I MiuiNetworkPolicy: updateUidState uid = 10194, uidState = 11
+08-05 18:05:41.069   453   453 I lowmemorykiller: medium pressure event triggered
+08-05 18:05:41.100  1061 15179 D AALLightSensor: oldLux=55 [SA:37 LA:37] newLux=55 (oriLux: 38)
+08-05 18:05:41.169   453   453 I lowmemorykiller: medium pressure event polling check
+08-05 18:05:41.177   453   453 I lowmemorykiller: critical pressure event triggered
+08-05 18:05:41.178   453   453 I lowmemorykiller: Ignoring critical pressure event; system is not in reclaim
+08-05 18:05:41.194   730  2919 I BufferQueueProducer: [StatusBar#0](this:0xb400007e11761258,id:5,api:1,p:1892,c:730) queueBuffer: fps=0.12 dur=8000.93 max=8000.93 min=8000.93
+08-05 18:05:41.199   683   811 I hwcomposer: [HWCDisplay] [Display_0 (type:1)] fps:0.250061,dur:7998.04,max:7871.88,min:126.16
+08-05 18:05:41.242  1381  1653 E WifiVendorHal: getWifiLinkLayerStats_1_3_Internal(l.976) failed {.code = ERROR_NOT_SUPPORTED, .description = }
+08-05 18:05:41.270   453   453 I lowmemorykiller: critical pressure event polling check
+08-05 18:05:41.270   453   453 I lowmemorykiller: Ignoring critical pressure event; system is not in reclaim
+08-05 18:05:41.276 11606 11702 I System.out: [OkHttp] sendRequest>>
+08-05 18:05:41.277 11606 11702 I System.out: [OkHttp] sendRequest<<
+08-05 18:05:41.331  7630  7630 W GCM     : broadcast intent callback: result=CANCELLED forIntent { act=com.google.android.c2dm.intent.RECEIVE pkg=com.google.android.apps.nbu.paisa.user (has extras) }
+08-05 18:05:41.335  1381  1642 I MiuiNetworkPolicy: updateUidState uid = 10209, uidState = 19
+08-05 18:05:41.335  1381  1642 I MiuiNetworkPolicy: updateUidState uid = 10194, uidState = 19
+08-05 18:05:41.356 11730 11730 W sh      : type=1400 audit(0.0:153866): avc: denied { search } for name="mm" dev="sysfs" ino=6916 scontext=u:r:shell:s0 tcontext=u:object_r:sysfs_mm:s0 tclass=dir permissive=0
+08-05 18:05:41.364 11732 11732 W sh      : type=1400 audit(0.0:153867): avc: denied { search } for name="mm" dev="sysfs" ino=6916 scontext=u:r:shell:s0 tcontext=u:object_r:sysfs_mm:s0 tclass=dir permissive=0
+08-05 18:05:41.372 11732 11732 W ps      : type=1400 audit(0.0:153869): avc: denied { search } for name="mm" dev="sysfs" ino=6916 scontext=u:r:shell:s0 tcontext=u:object_r:sysfs_mm:s0 tclass=dir permissive=0
+08-05 18:05:41.409   683  1009 I hwcomposer: [DPY] receive refesh frquest from driver: type[4]
+08-05 18:05:41.409   683  1009 I hwcomposer: [HWC] fire a callback of refresh to SF
+08-05 18:05:41.412 11606 11702 W Firebase-Installations: Error when communicating with the Firebase Installations server API. HTTP response: [403 Forbidden: {
+08-05 18:05:41.412 11606 11702 W Firebase-Installations:   "error": {
+08-05 18:05:41.412 11606 11702 W Firebase-Installations:     "code": 403,
+08-05 18:05:41.412 11606 11702 W Firebase-Installations:     "message": "Requests to this API firebaseinstallations.googleapis.com method google.firebase.installations.v1.FirebaseInstallationsService.CreateInstallation are blocked.",
+08-05 18:05:41.412 11606 11702 W Firebase-Installations:     "status": "PERMISSION_DENIED",
+08-05 18:05:41.412 11606 11702 W Firebase-Installations:     "details": [
+08-05 18:05:41.412 11606 11702 W Firebase-Installations:       {
+08-05 18:05:41.412 11606 11702 W Firebase-Installations:         "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+08-05 18:05:41.412 11606 11702 W Firebase-Installations:         "reason": "API_KEY_SERVICE_BLOCKED",
+08-05 18:05:41.412 11606 11702 W Firebase-Installations:         "domain": "googleapis.com",
+08-05 18:05:41.412 11606 11702 W Firebase-Installations:         "metadata": {
+08-05 18:05:41.412 11606 11702 W Firebase-Installations:           "consumer": "projects/821562894021",
+08-05 18:05:41.412 11606 11702 W Firebase-Installations:           "service": "firebaseinstallations.googleapis.com"
+08-05 18:05:41.412 11606 11702 W Firebase-Installations:         }
+08-05 18:05:41.412 11606 11702 W Firebase-Installations:       }
+08-05 18:05:41.412 11606 11702 W Firebase-Installations:     ]
+08-05 18:05:41.412 11606 11702 W Firebase-Installations:   }
+08-05 18:05:41.412 11606 11702 W Firebase-Installations: }
+08-05 18:05:41.412 11606 11702 W Firebase-Installations: ]
+08-05 18:05:41.412 11606 11702 W Firebase-Installations: Firebase options used while communicating with Firebase server APIs: AIzaSyB8uQD6i7b6T5sdX4eTKmh_jfuxqGQg5jU, google.com:paisa-android-client, 1:821562894021:android:8dda0809f50bbe5b
+08-05 18:05:41.412 11606 11702 E Firebase-Installations: Firebase Installations can not communicate with Firebase server APIs due to invalid configuration. Please update your Firebase initialization process and set valid Firebase options (API key, Project ID, Application ID) when initializing Firebase.
+08-05 18:05:41.423   730   730 I BufferQueueProducer: [FramebufferSurface](this:0xb400007e00f11ed0,id:-1,api:1,p:730,c:730) queueBuffer: fps=0.12 dur=8097.13 max=8097.13 min=8097.13
+08-05 18:05:41.563  1892  1892 D InterruptionStateProvider: No alerting: suppressed due to group alert behavior
+08-05 18:05:41.566  1892  1892 D InterruptionStateProvider: No alerting: suppressed due to group alert behavior
+08-05 18:05:41.585  1892  1892 D InterruptionStateProvider: No bubble up: not allowed to bubble: 0|com.google.android.apps.nbu.paisa.user|0|-566916590::a:offers_rewards_gamma:GAMMA:20240287:111249706:58d93638370f03c9:CAA|10209
+08-05 18:05:41.588  1892  1892 W NotifBindPipeline: Row is not set so pipeline will not run. notif = 0|com.google.android.apps.nbu.paisa.user|0|-566916590::a:offers_rewards_gamma:GAMMA:20240287:111249706:58d93638370f03c9:CAA|10209
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: Failed to inflate resource in the background! Retrying on the UI thread
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: android.view.InflateException: Binary XML file line #3 in com.android.systemui:layout/status_bar_notification_row: Animators may only be run on Looper threads
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: Caused by: android.util.AndroidRuntimeException: Animators may only be run on Looper threads
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at android.animation.AnimatorSet.start(AnimatorSet.java:705)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at android.animation.AnimatorSet.start(AnimatorSet.java:684)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at android.animation.StateListAnimator.start(StateListAnimator.java:188)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at android.animation.StateListAnimator.setState(StateListAnimator.java:181)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at android.view.View.drawableStateChanged(View.java:23710)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at android.widget.TextView.drawableStateChanged(TextView.java:5853)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at android.view.View.originalRefreshDrawableState(View.java:23783)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at android.view.View$14.refreshDrawableState(View.java:31102)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at com.miui.internal.variable.v21.Android_View_View_class.callOriginalRefreshDrawableState(Android_View_View_class.java:61)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at com.miui.internal.variable.v16.Android_View_View_class_common.handleRefreshDrawableState(Android_View_View_class_common.java:90)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at com.miui.internal.variable.v21.Android_View_View_class.access$000(Android_View_View_class.java:22)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at com.miui.internal.variable.v21.Android_View_View_class$1.refreshDrawableState(Android_View_View_class.java:88)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at android.view.View.refreshDrawableState(View.java:23774)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at com.miui.internal.util.TaggingDrawableHelper.tagView(TaggingDrawableHelper.java:203)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at com.miui.internal.util.TaggingDrawableHelper.tagChildSequenceState(TaggingDrawableHelper.java:59)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at com.miui.internal.variable.v16.Android_View_ViewGroup_class.handleOnChildVisibilityChanged(Android_View_ViewGroup_class.java:144)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at com.miui.internal.variable.v21.Android_View_ViewGroup_class.access$300(Android_View_ViewGroup_class.java:23)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at com.miui.internal.variable.v21.Android_View_ViewGroup_class$1.onChildVisibilityChanged(Android_View_ViewGroup_class.java:186)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at android.view.ViewGroup.onChildVisibilityChanged(ViewGroup.java:1586)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at android.view.View.setFlags(View.java:16389)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at android.view.View.setVisibility(View.java:11867)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at com.android.systemui.statusbar.notification.row.ActivatableNotificationView.updateBackground(ActivatableNotificationView.java:598)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at com.android.systemui.statusbar.notification.row.MiuiExpandableNotificationRow.updateBackground(MiuiExpandableNotificationRow.kt:62)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at com.android.systemui.statusbar.notification.row.ActivatableNotificationView.onFinishInflate(ActivatableNotificationView.java:205)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at com.android.systemui.statusbar.notification.row.ExpandableNotificationRow.onFinishInflate(ExpandableNotificationRow.java:1750)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at com.android.systemui.statusbar.notification.row.MiuiExpandableNotificationRow.onFinishInflate(MiuiExpandableNotificationRow.kt:52)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:1155)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:1103)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at android.view.LayoutInflater.inflate(LayoutInflater.java:684)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at android.view.LayoutInflater.inflate(LayoutInflater.java:536)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at androidx.asynclayoutinflater.view.AsyncLayoutInflater$InflateThread.runInner(AsyncLayoutInflater.java:189)
+08-05 18:05:41.596  1892  5544 W AsyncLayoutInflater: 	at androidx.asynclayoutinflater.view.AsyncLayoutInflater$InflateThread.run(AsyncLayoutInflater.java:203)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: Failed to inflate resource in the background! Retrying on the UI thread
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: android.view.InflateException: Binary XML file line #3 in com.android.systemui:layout/status_bar_notification_row: Animators may only be run on Looper threads
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: Caused by: android.util.AndroidRuntimeException: Animators may only be run on Looper threads
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at android.animation.AnimatorSet.start(AnimatorSet.java:705)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at android.animation.AnimatorSet.start(AnimatorSet.java:684)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at android.animation.StateListAnimator.start(StateListAnimator.java:188)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at android.animation.StateListAnimator.setState(StateListAnimator.java:181)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at android.view.View.drawableStateChanged(View.java:23710)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at android.widget.TextView.drawableStateChanged(TextView.java:5853)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at android.view.View.originalRefreshDrawableState(View.java:23783)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at android.view.View$14.refreshDrawableState(View.java:31102)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at com.miui.internal.variable.v21.Android_View_View_class.callOriginalRefreshDrawableState(Android_View_View_class.java:61)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at com.miui.internal.variable.v16.Android_View_View_class_common.handleRefreshDrawableState(Android_View_View_class_common.java:90)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at com.miui.internal.variable.v21.Android_View_View_class.access$000(Android_View_View_class.java:22)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at com.miui.internal.variable.v21.Android_View_View_class$1.refreshDrawableState(Android_View_View_class.java:88)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at android.view.View.refreshDrawableState(View.java:23774)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at com.miui.internal.util.TaggingDrawableHelper.tagView(TaggingDrawableHelper.java:203)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at com.miui.internal.util.TaggingDrawableHelper.tagChildSequenceState(TaggingDrawableHelper.java:59)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at com.miui.internal.variable.v16.Android_View_ViewGroup_class.handleOnChildVisibilityChanged(Android_View_ViewGroup_class.java:144)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at com.miui.internal.variable.v21.Android_View_ViewGroup_class.access$300(Android_View_ViewGroup_class.java:23)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at com.miui.internal.variable.v21.Android_View_ViewGroup_class$1.onChildVisibilityChanged(Android_View_ViewGroup_class.java:186)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at android.view.ViewGroup.onChildVisibilityChanged(ViewGroup.java:1586)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at android.view.View.setFlags(View.java:16389)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at android.view.View.setVisibility(View.java:11867)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at com.android.systemui.statusbar.notification.row.ActivatableNotificationView.updateBackground(ActivatableNotificationView.java:598)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at com.android.systemui.statusbar.notification.row.MiuiExpandableNotificationRow.updateBackground(MiuiExpandableNotificationRow.kt:62)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at com.android.systemui.statusbar.notification.row.ActivatableNotificationView.onFinishInflate(ActivatableNotificationView.java:205)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at com.android.systemui.statusbar.notification.row.ExpandableNotificationRow.onFinishInflate(ExpandableNotificationRow.java:1750)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at com.android.systemui.statusbar.notification.row.MiuiExpandableNotificationRow.onFinishInflate(MiuiExpandableNotificationRow.kt:52)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:1155)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:1103)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at android.view.LayoutInflater.inflate(LayoutInflater.java:684)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at android.view.LayoutInflater.inflate(LayoutInflater.java:536)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at androidx.asynclayoutinflater.view.AsyncLayoutInflater$InflateThread.runInner(AsyncLayoutInflater.java:189)
+08-05 18:05:41.613  1892  5544 W AsyncLayoutInflater: 	at androidx.asynclayoutinflater.view.AsyncLayoutInflater$InflateThread.run(AsyncLayoutInflater.java:203)
+08-05 18:05:41.628  1892  1892 E ResourceLoader: getXmlRoot local inputStream is null
+08-05 18:05:41.628  1892  1892 E ScreenElementRoot: load error, manifest root is null
+08-05 18:05:41.655  1892  1892 D IconCustomizer: Content Ratio = -1.0
+08-05 18:05:41.661  1892  1892 D IconCustomizer: Generate customized icon for com.google.android.apps.nbu.paisa.user.png
+08-05 18:05:41.754  1892  1892 D NotifBadge: update app badge num: com.google.android.apps.nbu.paisa.user/,num=0,isAllowed=true,userId=0
+08-05 18:05:41.755  1381  1743 W ActivityManager: Sending non-protected broadcast android.intent.action.APPLICATION_MESSAGE_UPDATE from system 1892:com.android.systemui/1000 pkg com.android.systemui. Callers=
+08-05 18:05:41.756  2108  2210 I Launcher.ApplicationsMessage: onReceive true
+08-05 18:05:41.757  2108  2210 I Launcher.ApplicationsMessage: update com.google.android.apps.nbu.paisa.user/ to null
+08-05 18:05:41.788   683  1014 E hwcomposer: [DRMDEV] failed to drmWaitVBlank with dpy_0: -1
+08-05 18:05:41.788   683  1014 W hwcomposer: (0) failed to waitNextVsync: -1
+08-05 18:05:41.794  1381  1743 I ProcessManager: registerForegroundWindowListener, caller=1892, listener=miui.process.IForegroundWindowListener$Stub$Proxy@1bcdfd5
+08-05 18:05:41.798  1892  1892 D StatusBar: disable<e i a s b h r c s > disable2<q i n >
+08-05 18:05:41.798  1381  1743 D systemui_boost: notification panel visible=true
+08-05 18:05:41.798  1381  1743 D systemui_boost: ui thread tid=1892
+08-05 18:05:41.799  1381  1743 D systemui_boost: render thread tid=2390
+08-05 18:05:41.799  1381  1743 D systemui_boost: ui thread old priority=-10
+08-05 18:05:41.799  1381  1743 D systemui_boost: render thread old priority=-10
+08-05 18:05:41.799  1381  1743 D systemui_boost: thread tid=1892, priority is set to -10
+08-05 18:05:41.799  1381  1743 D systemui_boost: thread tid=2390, priority is set to -10
+08-05 18:05:41.799  1381  1743 D systemui_boost: ui thread and render thread are boosted
+08-05 18:05:41.800  1892  1892 W TouchableRegionManager: onHeadsUpPinnedModeChanged
+08-05 18:05:41.801  1892  1892 D NotificationFilterController: filter group summary suppressed key=0|com.google.android.apps.nbu.paisa.user|0|-566916590::SUMMARY::08393710f815f60195a45cdada69fdff|10209
